@@ -1,0 +1,12 @@
+name is: X
+Thread X started writing
+Thread X is currently writing
+Thread X finished writing – X
+name is: Z
+Thread Z started writing
+Thread Z is currently writing
+Thread Z finished writing – Z
+name is: Y
+Thread Y started writing
+Thread Y is currently writing
+Thread Y finished writing – Y
